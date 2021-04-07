@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "847809530814",
+    "project_id": "project-sms-bdede",
+    "storage_bucket": "project-sms-bdede.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847809530814:android:e17aec608005bf193fc7ef",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847809530814-1btm809rbhuuui6v27sq580ok9o1pto9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApso_zcjV4ik5YqLTk82mc5sllkdPT9bQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847809530814-1btm809rbhuuui6v27sq580ok9o1pto9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
